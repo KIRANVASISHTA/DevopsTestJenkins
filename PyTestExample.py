@@ -4,7 +4,7 @@ def test_add():
   assert add(3,5) == 8
 
 def test_subtract():
-  assert sub(4,2) == 2
+  assert subtract(4,2) == 2
 
 def test_mul():
   assert mul(2,3) == 6
