@@ -1,4 +1,5 @@
 def add(a,b):
+  print("Adding the commit")
   return a+b
 
 def subtract(a,b):
