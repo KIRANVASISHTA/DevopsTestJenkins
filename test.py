@@ -1,4 +1,11 @@
-print("Welcome to Jenkins Devops practice.")
-print("Change1")
-print("Change2")
-vvv This is error
+def add(a,b):
+  return a+b
+
+def subtract(a,b):
+  return a-b
+
+def mul(a,b):
+  return a*b
+
+def div(a,b):
+  return a/b
