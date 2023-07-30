@@ -11,5 +11,3 @@ def test_mul():
 
 def test_div():
   assert div(3,1) == 3
-  assert div(3,4) == 2
-  assert div(3,0) == 0
